@@ -1,0 +1,24 @@
+{
+  "name": "random-string-msg-tijito",
+  "version": "1.0.0",
+  "description": "random-string-msg-tijito",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseLopezGonzalez/random-string-msg-tijito.git"
+  },
+  "keywords": [],
+  "author": "Jose Antonio <tijito4@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoseLopezGonzalez/random-string-msg-tijito/issues"
+  },
+  "homepage": "https://github.com/JoseLopezGonzalez/random-string-msg-tijito#readme",
+  "bin": {
+    "random-string-msg-tijito": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
